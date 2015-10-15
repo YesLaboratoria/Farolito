@@ -1,0 +1,34 @@
+#farolito{
+	width:50%;
+	margin-top:20%;
+}
+.letra{
+    margin-left:-220px; 
+    margin-top:20px;
+}
+/*formulario con opacidad*/
+#formulario{
+	width:500%; 
+	margin-top:100px;  
+	opacity:.6;
+}
+.boton2{
+	margin-top:17px;
+	border-radius:10%;   
+	background-color:#ff6a49;
+	margin-left:200px; 
+	width:150px;
+	height:40px;
+	padding:7px; 
+}
+input{
+	width:15%; 
+	height:30px; 
+
+}
+.gris{
+	background-color:#989898;
+	margin-top:10%;
+	width:100%;
+	height:35%;  
+}

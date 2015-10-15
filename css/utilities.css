@@ -1,0 +1,62 @@
+/*Global*/
+*{
+	font-family: "Lato";
+}
+/* Shortcuts */
+
+.pd-0{
+	padding: 0;
+}
+.pt-5{
+	padding-top: 5%;
+}
+.pb-5{
+	padding-bottom: 5%;
+}
+.mg-0{
+	margin: 0;
+}
+.w-100{
+	width: 100%;
+}
+.lh{
+	line-height: 1.5;
+}
+.text-center{
+	text-align: center;
+}
+.text-left{
+	text-align: left;
+}
+.text-white{
+	color: white;
+}
+.text-gray{
+	color: #989898;
+}
+.text-grayo{
+	color:#4d4545;
+}
+.text-celeste{
+    color: #28c5e6;
+}
+.text-orange{
+	color:#ff6a49;
+}
+.text-green{
+	color:#77d248;
+}
+.text-yellow{
+    color:#ffc200;
+}
+.a-none-decoration{
+	text-decoration: none;
+}
+.bg-gray{
+	background-color: rgb(244, 244, 244);
+}
+.bg-img-block{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
